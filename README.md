@@ -21,4 +21,6 @@
 
 -kubectl run sonarqube --image=sonarqube
 
+Failed to combine Sonarqube and SonarScanner
+
 ![image](https://github.com/angel4576/cs1660_project/blob/master/Kubernetes.png)
