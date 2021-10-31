@@ -1,5 +1,6 @@
 # cs1660_project
-Docker images URLs
+*Docker images URLs
+
 Apache Hadoop: https://hub.docker.com/r/harisekhon/hadoop
 
 Apache Spark: https://hub.docker.com/r/bitnami/spark
@@ -10,7 +11,8 @@ Sonarqube: https://hub.docker.com/_/sonarqube
 
 SonarScanner: https://hub.docker.com/r/newtmitch/sonar-scanner
 
-Steps: 
+*Steps: 
+
 kubectl run hadoop --image=harisekhon/hadoop
 
 kubectl run spark --image=bitnami/spark
