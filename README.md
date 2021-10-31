@@ -12,8 +12,11 @@ SonarScanner: https://hub.docker.com/r/newtmitch/sonar-scanner
 
 Steps: 
 kubectl run hadoop --image=harisekhon/hadoop
+
 kubectl run spark --image=bitnami/spark
+
 kubectl run jupyter-notebook --image=jupyter/minimal-notebook
+
 kubectl run sonarqube --image=sonarqube
 
 ![image](https://github.com/angel4576/cs1660_project/blob/master/Kubernetes.png)
